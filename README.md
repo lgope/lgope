@@ -37,5 +37,5 @@ Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner f
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=lgope&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=lgope&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
 
