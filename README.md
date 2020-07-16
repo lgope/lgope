@@ -34,8 +34,10 @@ Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner f
   backend: ['nodeJs'],
   frontend: ['materialize', 'jQuery', 'reactJs'],
   databases: ['mongoDB', "sql"],
+  tools: ['vs code', 'postman', 'mongoDB Compass'],
+  Cloud: ['Heroku', 'Netlify'],
+  Open Source: ['GitHub']
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=lgope&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
-
+<img src="https://github-readme-stats.vercel.app/api/?username=lgope&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
