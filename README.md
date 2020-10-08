@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
+- 🔭 I’m currently working on MERN Stack,
+- 🌱 I’m currently learning GraphQL, Advanced Reactjs
+- 💬 Ask me about #Javascript #ReactJS #NodeJS
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+
 ## {...} My Stack 💻🚀
 
 ```js
