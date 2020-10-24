@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lakshman_gope/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lakshman35-2256@diu.edu.bd?subject=From%20GitHub&cc=lakshman.gope2@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
+Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 - 🔭 I’m currently working on MERN Stack,
 - 🌱 I’m currently learning GraphQL, Advanced Reactjs
@@ -36,14 +36,14 @@ Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner f
 
 ```js
 {
-  languages: ['JavaScript', 'Python', 'C'],
-  backend: ['nodeJs'],
-  frontend: ['ReactJs', 'ReduxJs'],
-  databases: ['mongoDB', "sql"],
-  tools: ['vs code', 'postman', 'mongoDB Compass'],
+  languages: ['JavaScript', 'Php', 'Python', 'C'],
+  backend: ['NodeJs', 'Laravel'],
+  frontend: ['ReactJs', 'Redux'],
+  databases: ['MongoDB', "Sql"],
+  tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Trello', 'Slack'],
   Cloud: ['Heroku', 'Netlify'],
   Open Source: ['Git, GitHub']
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/?username=lgope&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/?username=lgope&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
