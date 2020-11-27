@@ -38,7 +38,7 @@ Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner f
 {
   languages: ['JavaScript', 'Php', 'Python', 'C'],
   backend: ['NodeJs', 'Laravel'],
-  frontend: ['ReactJs', 'Redux'],
+  frontend: ['ReactJs', 'VueJs'],
   databases: ['MongoDB', "Sql"],
   tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Trello', 'Slack'],
   Cloud: ['Heroku', 'Netlify'],
