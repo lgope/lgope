@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lakshman_gope/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lakshman.gope2@gmail.com?subject=From%20GitHub&cc=lakshman.gope2@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
+Hi there 👋, My name is Lakshman. A self-taught, passionate, and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. I'm a graduate Software Engineer with two (02) years of experience in Javascript, React, and NodeJs 👨‍🎓. I love to work with new technologies and develop web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for a better user experience 🌱. Now I am working as a Full Stack Software Engineer 🚀.
 
 - 🔭 I’m currently working on MERN Stack,
-- 🌱 I’m currently learning GraphQL, Advanced Reactjs
+- 🌱 I’m currently learning GraphQL, Advanced Reactjs, ML, and AI
 - 💬 Ask me about #Javascript #ReactJS #NodeJS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
@@ -35,7 +35,7 @@ Hi there 👋, My name is Lakshman. A self-taught, passionate and fast-learner f
 
 ```js
 {
-  languages: ['JavaScript', 'Php', 'Python', 'C'],
+  languages: ['JavaScript', 'Php', 'Python', 'C', 'C++'],
   backend: ['NodeJs', 'Laravel'],
   frontend: ['ReactJs', 'VueJs'],
   databases: ['MongoDB', "Sql"],
