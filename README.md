@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 # Lakshman Gope
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/lakshman-gope/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lakshman_gope/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/lgope/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lgopeofficial/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lakshman.gope2@gmail.com?subject=From%20GitHub&cc=lakshman.gope2@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi there 👋🏻, My name is Lakshman. A self-taught, passionate, and fast-learner full-stack developer from Dhaka, 🇧🇩 🌎. I'm a graduate Software Engineer with two (02) years of experience in Javascript, React, and NodeJs 👨‍🎓. I love to work with new technologies and develop web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for a better user experience 🌱. Now I am working as a Full Stack Software Engineer 🚀.
